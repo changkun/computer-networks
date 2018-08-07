@@ -91,3 +91,34 @@ Lecture notes of Computer Networks and Distributed Systems
     + Name resolution on the Internet (DNS)
     + HTTP
     + SMTP
+- [Chapter 6: Source of Delay]
+- [Chapter 7: Internet Structure]
+- [Chapter 8: Tunneling]
+- [Chapter 9: Network Layer Routing]
+  + Routing Algorithm
+    + Link state
+    + Distance Vector
+  + Routing in the Internet
+    + RIP
+    + OSPF
+    + BGP
+  + Broadcast and multicast routing
+- [Chapter 10: SDN]
+- [Chapter 11: CDN]
+- [Chapter 12: Transport Layer Services]
+  + Transport layer services
+  + Multiplexing and demultiplexing
+  + Connectionless transport UDP
+  + Connection-oriented transport TCP
+    + Segment structure
+    + Reliable data transfer
+    + Flow control
+    + Connection management
+  + TCP congestion control
+  + SCTP
+  + Piplining for increased utilization
+- [Chapter 13: Network measurements]
+  + Architecture & mechanisms
+  + Protocol
+    + IPFIX
+    + PSAMP
